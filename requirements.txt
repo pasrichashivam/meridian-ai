@@ -19,6 +19,7 @@ langchain-google-genai==4.2.1   # Gemini chat model + embeddings (API key locall
 langgraph==1.1.6                # engine behind create_agent (installed for you; we write no graph code)
 
 # --- Local mode (APP_MODE=local) ---
+onnxruntime==1.23.2
 langchain-chroma==1.1.0         # Chroma vector store on disk
 chromadb==1.5.9
 
