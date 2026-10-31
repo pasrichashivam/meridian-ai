@@ -325,3 +325,8 @@ When something fails, read the last lines in the terminal. The app writes a diar
 ---
 
 *Aldermoor Industries and all sample data are fictional.*
+
+
+<!-- gcloud organizations add-iam-policy-binding 286575072759 \
+  --member="user:geetikabatra8@gmail.com" \
+  --role="roles/orgpolicy.policyAdmin" -->
