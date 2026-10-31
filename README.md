@@ -243,6 +243,7 @@ Works in local mode with just your Gemini key (in cloud mode, see [DEPLOY.md](DE
 
 ### Check that everything is wired up
 
+
 ```bash
 pytest backend/tests
 ```
